@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "OneFit — bitta obuna, minglab mashg‘ulotlar",
+  title: "MyFit — bitta obuna, minglab mashg‘ulotlar",
   description:
     "Fitnes zallari, studiyalar va basseynlarga bitta ilova orqali qulay kirish. Obunani boshlang va shahringizdagi hamkorlarni kashf eting.",
 };

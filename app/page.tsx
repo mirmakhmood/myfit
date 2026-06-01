@@ -107,7 +107,7 @@ export default function Home() {
         <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
           <a href="#" className="flex items-center gap-2 font-semibold tracking-tight">
             <LogoMark className="size-9 shrink-0" />
-            <span className="text-lg">OneFit</span>
+            <span className="text-lg">MyFit</span>
           </a>
           <nav className="hidden items-center gap-8 text-sm font-medium text-stone-600 md:flex">
             {nav.map((item) => (
@@ -234,7 +234,7 @@ export default function Home() {
           <div className="mx-auto max-w-6xl px-4 sm:px-6">
             <div className="max-w-2xl">
               <h2 className="text-3xl font-bold tracking-tight text-stone-900 sm:text-4xl">
-                Nima uchun OneFit?
+                Nima uchun MyFit?
               </h2>
               <p className="mt-4 text-lg text-stone-600">
                 Mashg‘ulotlarni rejalashtirish va yangi joylarni kashf etish uchun soddalashtirilgan
@@ -448,7 +448,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-8 px-4 sm:flex-row sm:px-6">
           <div className="flex items-center gap-2">
             <LogoMark className="size-8" />
-            <span className="font-semibold">OneFit</span>
+            <span className="font-semibold">MyFit</span>
           </div>
           <nav className="flex flex-wrap justify-center gap-6 text-sm text-stone-600">
             <a href="#" className="hover:text-stone-900">
@@ -462,7 +462,7 @@ export default function Home() {
             </a>
           </nav>
           <p className="text-center text-xs text-stone-500 sm:text-right">
-            © {new Date().getFullYear()} OneFit. Barcha huquqlar himoyalangan.
+            © {new Date().getFullYear()} MyFit. Barcha huquqlar himoyalangan.
           </p>
         </div>
       </footer>
